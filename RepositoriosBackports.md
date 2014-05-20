@@ -2,6 +2,7 @@ Respositorios non-free y backports Mozilla
 ==========================================
 
 Instalar repositorios non-free y backports de Debian Wheezy para actualizar navegador Iceweasel
+
 Abrir una terminal y editar el sources.list:
 
 ```
