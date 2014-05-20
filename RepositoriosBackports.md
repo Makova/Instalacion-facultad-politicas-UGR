@@ -1,13 +1,13 @@
-Respositorios non-free y backports para Mozilla
-===============================================
+Respositorios non-free y backports Mozilla
+==========================================
 
 Instalar repositorios non-free y backports de Debian Wheezy para actualizar navegador Iceweasel
 Abrir una terminal y editar el sources.list:
 
-``
+```
 sudo nano /etc/apt/sources.list
 
-``
+```
 Y pegar los siguientes repositorios:
 
 ```
@@ -27,14 +27,14 @@ deb-src http://ftp.es.debian.org/debian/ wheezy-updates main contrib non-free
 
 Añadir llave Launchpad para repositorio Mozilla:
 
-``
+```
 sudo apt-get install pkg-mozilla-archive-keyring
 
-``
+```
 
 Actualizamos:
 
-``
+```
 sudo apt-get update && sudo apt-get dist-upgrade
 
-``
+```
