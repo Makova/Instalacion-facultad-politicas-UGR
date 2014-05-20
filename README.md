@@ -1,4 +1,4 @@
-Instalacion facultad de politicas UGR
+Instalación facultad de políticas UGR
 =====================================
 
 Creación de dos HDD para facultad de politicas UGR
