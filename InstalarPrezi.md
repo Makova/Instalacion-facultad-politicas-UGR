@@ -1,16 +1,16 @@
-Instalación:
+Instalación
 ===========
 
-*1.-* Descargar `Adobe Air` la versión [Adobe AIR 2.6 runtime downloads](http://airdownload.adobe.com/air/lin/download/2.6/AdobeAIRInstaller.bin) y su `SDK`: 
+*1* Descargar `Adobe Air` la versión [Adobe AIR 2.6 runtime downloads](http://airdownload.adobe.com/air/lin/download/2.6/AdobeAIRInstaller.bin) y su `SDK`: 
 
-Dentro de la carpeta */opt*  crear la carpeta *airapps*, el SDK se descomprimí y se pega en */opt* también, renombrando la carpeta como *adobe-air-sdk*.  
+Dentro de la carpeta `opt`  crear la carpeta `airapps`, el SDK se descomprimí y se pega en `/opt` también, renombrando la carpeta como `adobe-air-sdk`.  
 Cabe recordar que todo esto debe hacerse como root.
 
-*2.-* Descargar el archivo [Air de Prezi Desktop](http://www.mediafire.com/download/w0s25f1vcd0y2fr/AdobeAIRInstaller.bin)
+*2* Descargar el archivo [Air de Prezi Desktop](http://www.mediafire.com/download/w0s25f1vcd0y2fr/AdobeAIRInstaller.bin)
 
-*3.-* Una vez descargado, lo debes descomprimir y copiarlo todo en `/opt/airapps/prezi-desktop` (quizás debas crear la carpeta *prezi-desktop*).
+*3* Una vez descargado, lo debes descomprimir y copiarlo todo en `/opt/airapps/prezi-desktop` quizás debas crear la carpeta `prezi-desktop`.
 
-*4.-* Luego para ejecutarlo puedes crear un lanzador, copiando el comando:
+*4* Luego para ejecutarlo puedes crear un lanzador, copiando el siguienmte comando:
 
 ```
 /opt/adobe-air-sdk/bin/adl -nodebug /opt/airapps/prezi-desktop/META-INF/AIR/application.xml /opt/airapps/prezi-desktop
