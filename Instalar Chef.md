@@ -4,7 +4,7 @@ Ejecutar el siguiente comando desde una terminal:
 
 > sudo apt-get install chef
 
-O bien instalar `synaptic` para instalarlo y comprobar todas las dependencias y paquetes:
+O bien instalar con `synaptic` para comprobar todas las dependencias y paquetes que lleva `chef`:
 
 > sudo apt-get install synaptic
 
