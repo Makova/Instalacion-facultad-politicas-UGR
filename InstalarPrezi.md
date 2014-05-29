@@ -56,3 +56,5 @@ Referencias de los siguientes enlaces:
 
 [2](http://cbta16-computacion.blogspot.com.es/2012/07/como-instalar-prezi-desktop-en-linux.html)
 
+
+Si después de varios usos comienza a fallar, se puede optar por descargar Prezi .exe y ejecutar con Wine.
