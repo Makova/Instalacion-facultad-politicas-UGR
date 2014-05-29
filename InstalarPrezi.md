@@ -58,3 +58,7 @@ Referencias de los siguientes enlaces:
 
 
 Si después de varios usos comienza a fallar, se puede optar por descargar Prezi .exe y ejecutar con Wine.
+
+También se puede instalar un paquete .deb para poder hacer las presentación con Prezi por el desarrollador Tom Freudenberg:
+
+[GitHub/TomFreudenberg](https://github.com/TomFreudenberg/preziplayer/wiki)
