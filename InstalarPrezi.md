@@ -10,24 +10,26 @@ La versión [Adobe AIR 2.6 runtime downloads](http://airdownload.adobe.com/air/l
 Instalar `Adobe Air` 
 Ejecuta el siguiente comando para cambiar el permiso en el archivo para que sea ejecutable:
 
-```sudo chmod +x AdobeAIRInstaller.bin```
+> sudo chmod +x AdobeAIRInstaller.bin```
 
 Ahora con el siguiente comando vamos a instalar el Adobe Air:
 
-```sudo ./AdobeAIRInstaller.bin```
+> sudo ./AdobeAIRInstaller.bin```
 
 **2.1-** 
 (Opcional) Si tienes problemas con Adobe Air es porque falta `gnome-keyring`, ejecuta los siguientes comandos para solucionarlo, y después vuelve a ejecutar el instalador de AdobeAir:
 
 **Para 32 bits**
 
-``` sudo ln -s /usr/lib/i386-linux-gnu/libgnome-keyring.so.0 /usr/lib/libgnome-keyring.so.0```
-```sudo ln -s /usr/lib/i386-linux-gnu/libgnome-keyring.so.0.2.0 /usr/lib/libgnome-keyring.so.0.2.0```
+> sudo ln -s /usr/lib/i386-linux-gnu/libgnome-keyring.so.0 /usr/lib/libgnome-keyring.so.0```
+
+> sudo ln -s /usr/lib/i386-linux-gnu/libgnome-keyring.so.0.2.0 /usr/lib/libgnome-keyring.so.0.2.0```
 
 **Para 64 bits**
 
-```sudo ln -s /usr/lib/x86_64-linux-gnu/libgnome-keyring.so.0 /usr/lib/libgnome-keyring.so.0```
-```sudo ln -s /usr/lib/x86_64-linux-gnu/libgnome-keyring.so.0.2.0 /usr/lib/libgnome-keyring.so.0.2.0```
+> sudo ln -s /usr/lib/x86_64-linux-gnu/libgnome-keyring.so.0 /usr/lib/libgnome-keyring.so.0```
+
+> sudo ln -s /usr/lib/x86_64-linux-gnu/libgnome-keyring.so.0.2.0 /usr/lib/libgnome-keyring.so.0.2.0```
 
 **3-**
 Descargar la versión Prezi Desktop desde el siguiente enlace:
@@ -50,6 +52,7 @@ Espera un momento que se active la aplicación. Listo, ahora puedes usar Prezi d
 
 Referencias de los siguientes enlaces:
 
-http://drunkensapo.blogspot.mx/2012/07/install-prezi-desktop-on-linux-ubuntu.html
-http://cbta16-computacion.blogspot.com.es/2012/07/como-instalar-prezi-desktop-en-linux.html
+[1](http://drunkensapo.blogspot.mx/2012/07/install-prezi-desktop-on-linux-ubuntu.html)
+
+[2](http://cbta16-computacion.blogspot.com.es/2012/07/como-instalar-prezi-desktop-en-linux.html)
 
